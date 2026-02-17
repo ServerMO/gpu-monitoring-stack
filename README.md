@@ -4,7 +4,7 @@ A production-ready Docker Compose template to monitor NVIDIA GPUs (VRAM, Power, 
 
 Provided by **[ServerMO](https://www.servermo.com/)** - High-Performance Bare Metal GPU Servers.
 
-![GPU Monitoring Grafana Dashboard](https://grafana.com/api/dashboards/12239/images/8410/image)
+
 
 ## ⚠️ The Problem We Are Solving
 Running AI workloads (LLMs, Model Training, Inference) blind is dangerous. Standard server tools like `htop` cannot see GPU metrics. This stack helps you prevent:
